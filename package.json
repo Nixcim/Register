@@ -1,0 +1,26 @@
+{
+  "name": "noa-register",
+  "version": "1.0.0",
+  "description": "Noa Register",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  
+  "keywords": [
+    "node"
+  ],
+  
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.7",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "^2.4.1"
+  }
+}
